@@ -8,3 +8,11 @@ To liquidate shares with both temporary and permanent price impact, an agent mus
 ![image](https://github.com/joy-bb/HFT_CW1_w1613280/assets/71431452/f9481279-3f0e-4461-9a30-9392a3e8d548)
 ![image](https://github.com/joy-bb/HFT_CW1_w1613280/assets/71431452/2c9593e9-4644-4614-845c-006947509882)
 
+### 2. Processes explanation: The value function, HJB with terminal condition, Optimal trading speed and accordant Inventory
+![image](https://github.com/joy-bb/HFT_CW1_w1613280/assets/71431452/95e3a186-0171-4037-a6c2-9be9357be7c1)
+![image](https://github.com/joy-bb/HFT_CW1_w1613280/assets/71431452/67eda45f-ac69-463d-9ab1-a5665ea339bb)
+![image](https://github.com/joy-bb/HFT_CW1_w1613280/assets/71431452/85c87e31-eecf-4444-aeb6-fbc8664a143b)
+![image](https://github.com/joy-bb/HFT_CW1_w1613280/assets/71431452/bde03793-2b22-4141-86ca-9d3a3c34c0e9)
+
+
+
